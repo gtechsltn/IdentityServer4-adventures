@@ -1,4 +1,14 @@
-# IdentityServer4-adventures
+# Identity Server 4 Adventures
++ https://nahidfa.com/posts/identityserver4-and-asp-.net-mvc/
++ https://github.com/nahidf/IdentityServer4-adventures
++ https://github.com/gtechsltn/IdentityServer4-adventures
+
+## IdentityServer4.Samples
++ https://github.com/stulzq/IdentityServer4.Samples
++ https://github.com/gtechsltn/IdentityServer4.Samples
+
+## IdentityServer3.Samples
++ https://github.com/IdentityServer/IdentityServer3.Samples
 
 This repo contains samples and prototypes for IdentityServer4 based on [docs](https://identityserver4.readthedocs.io/) 
 
